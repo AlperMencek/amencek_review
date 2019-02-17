@@ -1,11 +1,21 @@
 
 package main.java;
 //PowerSetData.java
-
+/*  File: PowerSetData.java
+ *  Author: Mehlhase, Mencek
+ *  Date: Feb 27,2019
+ *  Description: Powerset class that creates a powerset object, then generates powersets.
+ *  */
 
 import java.util.*;   // for class StringTokenizer
 
 
+
+
+/*
+ * Class: PowerSetData
+ * Description: Creates an empty PowerSet object with int array, String of algo type.
+ * */
 
 public class PowerSetData {
 
